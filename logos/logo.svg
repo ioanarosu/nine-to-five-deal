@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="429px" height="335px" viewBox="0 0 429 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #394E79;">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>version5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="version5">
+            <g id="Group" transform="translate(54.000000, 9.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="97" y="24" width="128" height="118"></rect>
+                <text id="9to5" font-family="PoiretOne-Regular, Poiret One" font-size="150" font-weight="normal" line-spacing="152" letter-spacing="3.9000001">
+                    <tspan x="0" y="144" fill="#FFFFFF">9</tspan>
+                    <tspan x="98.5500001" y="144" fill="#394E79">to</tspan>
+                    <tspan x="224.4" y="144" fill="#FFFFFF">5</tspan>
+                </text>
+            </g>
+            <text id="deal" font-family="PoiretOne-Regular, Poiret One" font-size="170" font-weight="normal" fill="#FFFFFF">
+                <tspan x="55" y="288">deal</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
